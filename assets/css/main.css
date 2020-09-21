@@ -3341,3 +3341,7 @@ ul.nomargin {
 
 	margin: 0 0 0 0;
 }
+
+.no_underline {
+	text-decoration: none;
+}
