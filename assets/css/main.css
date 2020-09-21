@@ -2705,6 +2705,10 @@ input, select, textarea {
 						margin-bottom: 0;
 					}
 
+			.tiles article.style0 > .image:before {
+				background-color: #A879D4;
+			}
+
 			.tiles article.style1 > .image:before {
 				background-color: #f2849e;
 			}
